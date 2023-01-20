@@ -1,4 +1,5 @@
 # Alura-Books
 
 Projeto feito como parte da Alura sobre responsividade.
-https://vercel.com/pedrov371/alura-books
+
+https://alura-books-git-main-pedrov371.vercel.app/
